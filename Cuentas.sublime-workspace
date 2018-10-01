@@ -477,13 +477,10 @@
 			}
 		},
 		{
-			"contents": "<!DOCTYPE html>\n<html lang=\"en\">\n<head>\n\t<meta charset=\"UTF-8\">\n\t<title>Document</title>\n</head>\n<body>\n\n<!--\n\t\n////////////////////////////////////////////////////////////////////////////////////////\n\nGoogle Drive Contenidos:\n\n////////////////////////////////////////////////////////////////////////////////////////\n\nCorreo Google Gmail: (14.8Gb - 15Gb)\n____________________\n\n\tnombre de usuario: antoniogomezotalora80@gmail.com\n\n\tcontraseña: jose8080\n\n\n\n\n\tCONTENIDO:\n\t__________\n\n\t\t_Motores de Render\n\n\t\t\t_Ziva VFX v1.4 for Maya 2014201520162016.520172018\n\n\t\t\t\t_Ziva.Dynamics.Ziva.VFX.v1.4.for.Maya.2018\n\t\t\t\t_Ziva.Dynamics.Ziva.VFX.v1.4.for.Maya.2017\n\t\t\t\t_Ziva.Dynamics.Ziva.VFX.v1.4.for.Maya.2015\n\t\t\t\t_Ziva.Dynamics.Ziva.VFX.v1.4.for.Maya.2015\n\t\t\t\t_Ziva.Dynamics.Ziva.VFX.v1.4.for.Maya.2014\n\n\n\t\t\t_V-Ray adv 3.10.01 For Maya 2014 -15- 16 - Win64\n\n\t\t\t\t_V-Ray adv 3.10.01 For Maya 2016 - Win64\n\t\t\t\t_V-Ray adv 3.10.01 For Maya 2015 - Win64\n\t\t\t\t_V-Ray adv 3.10.01 For Maya 2014 - Win64\n\n\n\t\t\t_V-Ray 3.6  and Phoenix FD 3.04 for 3ds max 2013-2018 Part 2 de 2\n\n\t\t\t\t_V-Ray\n\n\t\t\t\t\t_V-Ray Max 2018\n\n\n\t\t_The Gnomon Workshop - Introduction to ZBrush 4R7\n\n\t\t\t_00 Welcome\n\n\t\t\t_01 Introduction to Sculpting\n\n\t\t\t_02 Navegation and Isolates\n\n\t\t\t_03 Interface\n\n\t\t\t_04 Custom Interface and Shortcuts\n\n\t\t\t_05 Projects SubTools Workflos and Polygroups\n\n\t\t\t_06 SubTools\n\n\t\t\t_07 Transpose\n\n\t\t\t_08 History - Movie\n\n\t\t\t_09 Import Obj\n\n\t\t\t_10 Insert Mesh\n\n\t\t\t_11 Dynamesh - CurveMesh - Remesher\n\n\t\t\t_12 Refine Dynamesh\n\n\t\t\t_13 ZModeler\n\n\t\t\t_14 Array Mesh\n\n\t\t\t_15 Nano Mesh\n\n\t\t\t_16 ZSpheres\n\n\t\t\t_17 ZSketch\n\n\t\t\t_18_ShadowBox-MatcherMeshes-AlphasGometry-Extract-\n\n\t\t\t_\n\n\n-->\n\n</body>\n</html>",
 			"file": "Google Drive antoniogomezotalora80@gmail.com.html",
-			"file_size": 1499,
-			"file_write_time": 131816051731855468,
 			"settings":
 			{
-				"buffer_size": 1663,
+				"buffer_size": 3851,
 				"encoding": "UTF-8",
 				"line_ending": "Windows"
 			}
@@ -1002,15 +999,15 @@
 					"semi_transient": false,
 					"settings":
 					{
-						"buffer_size": 1663,
+						"buffer_size": 3851,
 						"regions":
 						{
 						},
 						"selection":
 						[
 							[
-								1640,
-								1640
+								397,
+								428
 							]
 						],
 						"settings":
@@ -1168,7 +1165,7 @@
 							"translate_tabs_to_spaces": false
 						},
 						"translation.x": 0.0,
-						"translation.y": 1387.0,
+						"translation.y": 190.0,
 						"zoom_level": 1.0
 					},
 					"stack_index": 0,
